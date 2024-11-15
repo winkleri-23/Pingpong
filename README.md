@@ -23,7 +23,7 @@ Před spuštěním hry se ujistěte, že máte na svém systému nainstalovaný 
 pip install pygame
 ```
 ### Spuštění hry
-1. Zkopírujte celý kód do Python souboru, například `ping_pong.py`.
+1. Naklonujte si tento repositář.
 2. Otevřete příkazový řádek nebo terminál ve složce, kde máte soubor uložený.
 3. Spusťte následující příkaz:
    ```bash
@@ -64,6 +64,6 @@ pip install pygame
 
 ---
 
-🎉 **Užijte si hraní a zlepšujte své reflexy!** 🚀
+🎉 **Užijte si hru!** 🚀
 
 
